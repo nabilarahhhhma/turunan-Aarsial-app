@@ -1,1 +1,1 @@
-# turunan-Aarsial-app
+# turunan-Parsial-app
